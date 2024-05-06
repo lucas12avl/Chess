@@ -5,6 +5,7 @@ This is one of the first projects of C++. This project is part of the "Metodolog
 1. Download the project
 2. Open the Platforms\0. Windows Desktop\MP_Practica.sln with visual studio IDE
 3. run main.cpp to play chess game
+4. If you want to exit the game, press the `esc` button
 
 ## Objectives
 - Interpolate turns betwwen you and the opponent (Completed)
