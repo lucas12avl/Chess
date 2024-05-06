@@ -1,0 +1,63 @@
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  Chessboard.cpp
+  ChessPosition.cpp
+  CurrentGame.cpp
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(501,36): warning C4101: 'posToY': variable local sin referencia
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(501,19): warning C4101: 'posFomY': variable local sin referencia
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(594,99): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(594,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(594,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(595,107): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(595,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(595,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(673,45): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(675,138): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(675,88): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(715,99): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(715,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(715,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(716,107): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(716,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(716,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MovementHistory.cpp
+  Piece.cpp
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(157,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(157,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(160,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(160,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(163,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(163,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(166,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(166,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(169,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(169,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(172,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(172,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(183,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(183,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(186,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(186,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(189,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(189,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(192,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(192,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(195,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(195,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(198,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\Piece.cpp(198,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  GraphicManager.cpp
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\GraphicManager.cpp(27,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\GraphicManager.cpp(27,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código...
+C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(755): warning C4715: 'CurrentGame::updateAndRender': no todas las rutas de acceso de control devuelven un valor
+  SDL_FontCache.c
+  MP_Practica.vcxproj -> C:\Users\lucas\Estudios\ENG INFORMATICA\1r CURS\2n quadrimestre\Metodologia de la Programació\Chess project\Chess\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
