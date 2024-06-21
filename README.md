@@ -1,6 +1,8 @@
 ## Introduction
 This is one of the first projects of C++. This project is part of the "Metodologia de la Programació" course for the academic year 2021-2022. The main goal is expermint with c++ and create the chess game
 
+![few features demostration](./project%20images/chess.gif)
+
 ## Setup Instructions and Execution
 1. Download the project
 2. Open the Platforms\0. Windows Desktop\MP_Practica.sln with visual studio IDE
