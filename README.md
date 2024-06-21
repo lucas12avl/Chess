@@ -1,7 +1,7 @@
 ## Introduction
 This is one of the first projects of C++. This project is part of the "Metodologia de la Programació" course for the academic year 2021-2022. The main goal is expermint with c++ and create the chess game
 
-![few features demostration](./project%20images/chess.gif)
+<img src="./project%20images/chess.gif" alt="few features demostration" width="600"/>
 
 ## Setup Instructions and Execution
 1. Download the project
